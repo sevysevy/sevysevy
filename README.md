@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sevy
-- 👀 I’m interested in Python projets , Django , NodeJs
+- 👀 I’m interested in Python projets , Django , NodeJs ,go
 - 🌱 I’m currently learning Domain Driven Design
 - 📫 How to reach me ngahsevy@gmail.com
 
