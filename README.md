@@ -1,6 +1,6 @@
 👋 Hi, I’m @yves
 
-👀 I’m into Python 🐍, Django 🦄, .NET Core ⚙️, Node.js 🌲, and Go 🏃💨
+👀 I’m into Python 🐍, Django 🦄, .NET Core ⚙️, Node.js 🌲, and PHP/Laravel 🏃💨
 
 💻 Basically, if it compiles (or sometimes even when it doesn’t) — I’ll code it.
 
