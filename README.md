@@ -1,6 +1,6 @@
 👋 Hi, I’m @yves
 
-👀 I’m into Python 🐍, Django 🦄, .NET Core ⚙️, Node.js 🌲, and PHP/Laravel 🏃💨
+👀 I’m into Python/Django 🐍, PHP/Laravel 🦄, .NET Core ⚙️, Node.js 🌲, React and NextJS 🏃💨.
 
 💻 Basically, if it compiles (or sometimes even when it doesn’t) — I’ll code it.
 
